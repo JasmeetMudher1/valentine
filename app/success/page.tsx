@@ -16,7 +16,7 @@ export default function page() {
                         alt="two animals holding hearts and smiling gif"
                         className="yay-img"
                     />
-                    <p id="yay">💖 Yipee! 💖</p>
+                    <p id="yay">💖 Yayyyyyyyyy 💖</p>
                 </section>
             </div>
         </div>
