@@ -11,7 +11,11 @@ export default function page() {
             <div>
                 <section className="success">
                     <Surprise />
-                    <Image src="/public/celebrate.gif" alt="two animals holding hearts and smiling gif" width={570} height={300} className="yay-img" priority unoptimized />
+                    <img
+                        src="/celebrate.gif"
+                        alt="two animals holding hearts and smiling gif"
+                        className="yay-img"
+                    />
                     <p id="yay">💖 Yipee! 💖</p>
                 </section>
             </div>
