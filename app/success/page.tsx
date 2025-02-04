@@ -12,7 +12,7 @@ export default function page() {
                 <section className="success">
                     <Surprise />
                     <img
-                        src="valentine/celebrate.gif"
+                        src="/valentine/celebrate.gif"
                         alt="two animals holding hearts and smiling gif"
                         className="yay-img"
                     />
