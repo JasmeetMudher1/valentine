@@ -11,7 +11,7 @@ export default function page() {
             <div>
                 <section className="success">
                     <Surprise />
-                    <img
+                    <Image
                         src="/valentine/celebrate.gif"
                         alt="two animals holding hearts and smiling gif"
                         className="yay-img"
