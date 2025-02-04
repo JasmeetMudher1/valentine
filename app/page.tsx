@@ -25,8 +25,11 @@ export default function Home() {
       "Are you sure 🤔?",
       "But what if 🫣?",
       "You're breaking my heart 💔",
-      "Pwetty please 🥺👉👈",
-      "Can't catch up? 😂"
+      "Pretty please 🥺👉👈",
+      "Can't catch up? 😂",
+      "You can't do this😭😭",
+      "You're so mean 😢",
+      "I'm sad now 😞"
     ]
 
     const randomIndex = Math.floor(Math.random() * phrases.length);
