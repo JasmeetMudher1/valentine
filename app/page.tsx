@@ -23,7 +23,6 @@ export default function Home() {
     const phrases = [
       "Wrong button ❌",
       "Are you sure 🤔?",
-      "But what if 🫣?",
       "You're breaking my heart 💔",
       "Pretty please 🥺👉👈",
       "Can't catch up? 😂",
