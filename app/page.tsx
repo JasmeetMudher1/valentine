@@ -45,10 +45,10 @@ export default function Home() {
         </div>
         <div className="img-container">
           {image ? (
-            <Image src="/heppi.gif" alt="cat spinning with sparkles" width={270} height={200} className="cat" />
+            <Image src="/valentine/heppi.gif" alt="cat spinning with sparkles" width={270} height={200} className="cat" />
 
           ) : (
-            <Image src="/please.gif" alt="two animals asking each other to be their valentine gif" width={340} height={200} priority />
+            <Image src="/valentine/please.gif" alt="two animals asking each other to be their valentine gif" width={340} height={200} priority />
           )}
         </div>
         <div className="button-section">
