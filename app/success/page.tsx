@@ -17,6 +17,7 @@ export default function page() {
                         className="yay-img"
                     />
                     <p id="yay">💖 Yayyyyyyyyy 💖</p>
+                    <p id="yay"> I Loveee youuuuu Babyyyyy💖💓😘</p>
                 </section>
             </div>
         </div>
